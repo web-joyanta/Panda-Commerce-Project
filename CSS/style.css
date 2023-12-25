@@ -1,0 +1,96 @@
+/* =============Carousel Start============== */
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.navbar{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+/* =============Carousel end============== */
+/* =============Categories start============== */
+.categories{
+    margin-top: 100px;
+}
+.item1:hover{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.item2:hover{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.item3:hover{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+
+.item1{
+    background-image: linear-gradient(to right, #FFA500, #f9c168);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.item2{
+    background-image: linear-gradient(to right,  #ff136f, #ff589b);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.item3{
+    background-image: linear-gradient(to right, blue, rgb(92, 92, 250));
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+    border-radius: 10px;
+}
+/* =============Categories end============== */
+/* ================shoes Start============== */
+.shoes{
+    margin-top: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;   
+}
+.card:hover{
+    border: 1px solid lightgray;
+}
+/* ================Shoes End============== */
+/* ================Backpack Strat============== */
+.backpack{
+    margin-top: 100px;
+}
+/* ================Backpack End============== */
+/* ===============Subscribe Start============== */
+.subscribe{
+    height: 300px;
+    margin-top: 100px;
+}
+.subscribe h6{
+    color: gray;
+}
+/* ===============Subscribe End============== */
+/* ===============Footer Start============== */
+footer{
+    background-color: lightgray;
+    border-radius: 5px;
+}
+/* ===============Footer End============== */
